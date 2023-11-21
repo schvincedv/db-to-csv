@@ -1,0 +1,2 @@
+2023-11-21 03:09:12,983 [ERROR] Error deleting table rows, wx: C++ assertion ""Assert failure"" failed at ..\..\src\generic\grid.cpp(1925) in wxGridStringTable::DeleteRows(): Called wxGridStringTable::DeleteRows(pos=0, N=0)
+Pos value is invalid for present table with 0 rows
