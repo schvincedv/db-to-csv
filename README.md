@@ -32,7 +32,7 @@ The upcoming update will involve the management of a MySQL connection through a 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/schvincedv
+    git clone https://github.com/schvincedv/db-to-csv.git
     ```
 
 2. Install dependencies:
